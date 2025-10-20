@@ -45,12 +45,6 @@
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/PedroRoch/PedroRoch/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/PedroRoch/count.svg?"  />
 </div>
