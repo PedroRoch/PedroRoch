@@ -45,10 +45,6 @@
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PedroRoch/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
